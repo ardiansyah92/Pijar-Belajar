@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ubah Password_absolute ml-12 my-16 w-7 h-7 mb-2 inline-flex items-center justify-center rounded-full bg-white flex-shrink-0 shadow-md</name>
+   <tag></tag>
+   <elementGuidId>0e3be8d2-b03f-4fd1-a12f-828b34cfb4b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.absolute.ml-12.my-16.w-7.h-7.mb-2.inline-flex.items-center.justify-center.rounded-full.bg-white.flex-shrink-0.shadow-md</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/div/div[2]/div/div/div/div/div/div/button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;__next&quot;)/div[@class=&quot;flex flex-col min-h-screen&quot;]/main[@class=&quot;pt-24 flex-1&quot;]/div[1]/div[@class=&quot;lg:max-w-screen-lg mx-auto mt-6 pb-12&quot;]/div[@class=&quot;flex flex-col md:flex-row items-start&quot;]/div[@class=&quot;px-2 flex-1 self-stretch&quot;]/div[@class=&quot;border border-black-300 rounded-md w-full&quot;]/div[@class=&quot;px-4 py-4 mx-4 my-4&quot;]/div[1]/div[@class=&quot;flex items-center justify-center pb-2 mb-2&quot;]/button[@class=&quot;absolute ml-12 my-16 w-7 h-7 mb-2 inline-flex items-center justify-center rounded-full bg-white flex-shrink-0 shadow-md&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>pick-photo</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>absolute ml-12 my-16 w-7 h-7 mb-2 inline-flex items-center justify-center rounded-full bg-white flex-shrink-0 shadow-md</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;flex flex-col min-h-screen&quot;]/main[@class=&quot;pt-24 flex-1&quot;]/div[1]/div[@class=&quot;lg:max-w-screen-lg mx-auto mt-6 pb-12&quot;]/div[@class=&quot;flex flex-col md:flex-row items-start&quot;]/div[@class=&quot;px-2 flex-1 self-stretch&quot;]/div[@class=&quot;border border-black-300 rounded-md w-full&quot;]/div[@class=&quot;px-4 py-4 mx-4 my-4&quot;]/div[1]/div[@class=&quot;flex items-center justify-center pb-2 mb-2&quot;]/button[@class=&quot;absolute ml-12 my-16 w-7 h-7 mb-2 inline-flex items-center justify-center rounded-full bg-white flex-shrink-0 shadow-md&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>file</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>file</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div/div[2]/div/div/div/div/div/div/button</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah Password'])[1]/following::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Profil'])[1]/following::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='file input'])[1]/preceding::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Lengkap'])[1]/preceding::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/button</value>
+   </webElementXpaths>
+</WebElementEntity>

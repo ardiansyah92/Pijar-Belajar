@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pilih Foto</name>
+   <tag></tag>
+   <elementGuidId>8396320a-4efd-4879-925f-a375e1be3812</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[9]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[@class=&quot;text-black-800 font-normal&quot;]/body[1]/div[8]/div[@class=&quot;w-350px md:w-450px fixed max-h-full overflow-y-auto z-50 popup-center-enter-done&quot;]/div[@class=&quot;relative p-4&quot;]/div[@class=&quot;rounded-xl overflow-hidden&quot;]/div[@class=&quot;rounded-xl shadow-elevation-2 px-6 pb-6 pt-10 bg-white&quot;]/div[@class=&quot;flex flex-col sm:flex-row mt-6&quot;]/button[@class=&quot;px-2 w-full sm:w-1/2 sm:ml-4 flex items-center justify-center rounded-lg h-10 md:h-12 text-white bg-primary&quot;][count(. | //button[(text() = ' Pilih Foto ' or . = ' Pilih Foto ')]) = count(//button[(text() = ' Pilih Foto ' or . = ' Pilih Foto ')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-2 w-full sm:w-1/2 sm:ml-4 flex items-center justify-center rounded-lg h-10 md:h-12 text-white bg-primary</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Pilih Foto </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;text-black-800 font-normal&quot;]/body[1]/div[8]/div[@class=&quot;w-350px md:w-450px fixed max-h-full overflow-y-auto z-50 popup-center-enter-done&quot;]/div[@class=&quot;relative p-4&quot;]/div[@class=&quot;rounded-xl overflow-hidden&quot;]/div[@class=&quot;rounded-xl shadow-elevation-2 px-6 pb-6 pt-10 bg-white&quot;]/div[@class=&quot;flex flex-col sm:flex-row mt-6&quot;]/button[@class=&quot;px-2 w-full sm:w-1/2 sm:ml-4 flex items-center justify-center rounded-lg h-10 md:h-12 text-white bg-primary&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>file</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>file</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[9]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah Foto Profil'])[1]/following::button[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pilih Foto']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+   </webElementXpaths>
+</WebElementEntity>
