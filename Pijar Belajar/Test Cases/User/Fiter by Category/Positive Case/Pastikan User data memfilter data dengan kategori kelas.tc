@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pastikan User data memfilter data dengan kategori kelas</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7b8d171-ef06-468c-b679-4e1132d0be5c</testCaseGuid>
+</TestCaseEntity>

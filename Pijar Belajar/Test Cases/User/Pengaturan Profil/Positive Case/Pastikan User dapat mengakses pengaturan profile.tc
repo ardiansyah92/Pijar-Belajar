@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pastikan User dapat mengakses pengaturan profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>661ae652-9ae2-4858-bd74-aa217799d913</testCaseGuid>
+   <variable>
+      <defaultValue>'//home//ardiansyah//Work//Telkom//Pijar Belajar//Image//Terbaik.png'</defaultValue>
+      <description></description>
+      <id>28a0cb67-8ab7-47ad-9242-5433d299a4a5</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>
